@@ -1,0 +1,114 @@
+===============================================================================
+                           TABLE OF CONTENTS
+                    Blog & Short Works by Vidal Palacios
+===============================================================================
+
+Repository:  https://github.com/marblecube/blog
+Total Works: 9
+
+===============================================================================
+I. ESSAYS & CRITIQUES
+===============================================================================
+
+1. The Hackiest Critique of the Year: A Poseur’s Attempt at Literary Authority
+   Filename:    25_03_12_Hackiest_Critique.txt
+   Link:        https://github.com/marblecube/blog/blob/main/25_03_12_Hackiest_Critique.txt
+   Date:        March 12, 2025
+   Type:        Critique / Essay
+   Tags:        #essay #critique #ai #literature #commentary
+   Description: A spirited defense of AI-assisted fiction and a detailed 
+                rebuttal of a Gizmodo writer's attack on a ChatGPT story about grief.
+
+
+===============================================================================
+II. POETRY
+===============================================================================
+
+2. Adamantite
+   Filename:    26_06_25_Adamantite.txt
+   Link:        https://github.com/marblecube/blog/blob/main/26_06_25_Adamantite.txt
+   Date:        June 25, 2026
+   Type:        Poetry
+   Tags:        #poetry #mythology #nature #philosophical
+   Description: A poem weaving Gaia, Ouranos, and elemental forces into a meditation 
+                on stone, water, time, and the patient forge of nature.
+
+
+===============================================================================
+III. PROSE & FICTION
+===============================================================================
+
+3. 777
+   Filename:    10_25_2021_777.txt
+   Link:        https://github.com/marblecube/blog/blob/main/10_25_2021_777.txt
+   Date:        October 25, 2021
+   Type:        Vignette / Short Story
+   Tags:        #vignette #short-story #coincidence #synchronicities
+   Description: A short vignette exploring Gematria, convenience store lore, 
+                and a series of numerical coincidences during a Rite-Aid run.
+
+4. IT IS UPON US
+   Filename:    20_01_25_It_Is_Upon_Us.md
+   Link:        https://github.com/marblecube/blog/blob/main/20_01_25_It_Is_Upon_Us.md
+   Date:        January 25, 2020
+   Type:        Essay / Prose Narrative
+   Tags:        #humor #prose #satire #anecdote
+   Description: A surreal street encounter outside a Starbucks involving a 
+                confrontational man in a wheelchair and a fake street-theater claim.
+
+5. Mutato
+   Filename:    17_01_01_Mutato.txt
+   Link:        https://github.com/marblecube/blog/blob/main/17_01_01_Mutato.txt
+   Date:        January 1, 2017
+   Type:        Short Piece
+   Tags:        #philosophical #prose #reflections
+   Description: Reflections on word jumbles, anagrams ("heart/hater"), urban 
+                observations from a parking garage roof, language, and perception.
+
+6. Out of the Jungle and Into the Rotunda
+   Filename:    22_01_01_out_of_the_jungle_and_into_the_rotunda.txt
+   Link:        https://github.com/marblecube/blog/blob/main/22_01_01_out_of_the_jungle_and_into_the_rotunda.txt
+   Date:        January 1, 2022
+   Type:        Prose / Narrative
+   Tags:        #surreal #prose #fiction
+   Description: A dreamlike journey from a dark, verdant jungle into an elegant 
+                rotunda gathering, examining themes of belonging and gatekeeping.
+
+7. The Happy Meal Revelation
+   Filename:    25_03_10_Happy_Meal_Revelation.txt
+   Link:        https://github.com/marblecube/blog/blob/main/25_03_10_Happy_Meal_Revelation.txt
+   Date:        March 10, 2025
+   Type:        Short Story / Fiction
+   Tags:        #satire #fiction #short-story #consumerism
+   Description: A satirical tale of a 43-year-old adult who mysteriously finds 
+                himself holding a Happy Meal while reflecting on corporate algorithms.
+
+
+===============================================================================
+IV. SATIRE
+===============================================================================
+
+8. Updated Screening Process for Degree-Holding Applicants
+   Filename:    25_03_11_Updated_Screening_Process_for_Degree-Holding_Applicants.txt
+   Link:        https://github.com/marblecube/blog/blob/main/25_03_11_Updated_Screening_Process_for_Degree-Holding_Applicants.txt
+   Date:        March 11, 2025
+   Type:        Internal Memo
+   Tags:        #satire #memo #humor #corporate
+   Description: A tongue-in-cheek HR directive mandating rigorous interview 
+                interrogations for job candidates holding college degrees.
+
+
+===============================================================================
+V. SCREENPLAYS & SCRIPTS
+===============================================================================
+
+9. PINK CRAYONS
+   Filename:    25_09_01_pink_crayons.txt
+   Link:        https://github.com/marblecube/blog/blob/main/25_09_01_pink_crayons.txt
+   Date:        September 1, 2025
+   Type:        Screenplay / Script
+   Tags:        #screenplay #script #satire #humor #cinematic
+   Description: A cinematic short script depicting an absurd crusade inside a 
+                Dollar Tree to destroy pink crayons and resist social constructs.
+
+-------------------------------------------------------------------------------
