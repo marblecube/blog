@@ -4,7 +4,7 @@
 ===============================================================================
 
 Repository:  https://github.com/marblecube/blog
-Total Works: 9
+Total Works: 10
 
 ===============================================================================
 I. ESSAYS & CRITIQUES
@@ -74,7 +74,17 @@ III. PROSE & FICTION
    Description: A dreamlike journey from a dark, verdant jungle into an elegant 
                 rotunda gathering, examining themes of belonging and gatekeeping.
 
-7. The Happy Meal Revelation
+7. Pocket
+   Filename:    26_03_12_Pocket.txt
+   Link:        https://github.com/marblecube/blog/blob/main/26_03_12_Pocket.txt
+   Date:        March 12, 2026
+   Type:        Generative Short Fiction
+   Tags:        #fiction #sci-fi #generative #time
+   Description: A speculative generative fiction piece depicting the planet Kythara 
+                as a temporal island stretching into a gravitational well while 
+                the cosmos accelerates overhead.
+
+8. The Happy Meal Revelation
    Filename:    25_03_10_Happy_Meal_Revelation.txt
    Link:        https://github.com/marblecube/blog/blob/main/25_03_10_Happy_Meal_Revelation.txt
    Date:        March 10, 2025
@@ -88,7 +98,7 @@ III. PROSE & FICTION
 IV. SATIRE
 ===============================================================================
 
-8. Updated Screening Process for Degree-Holding Applicants
+9. Updated Screening Process for Degree-Holding Applicants
    Filename:    25_03_11_Updated_Screening_Process_for_Degree-Holding_Applicants.txt
    Link:        https://github.com/marblecube/blog/blob/main/25_03_11_Updated_Screening_Process_for_Degree-Holding_Applicants.txt
    Date:        March 11, 2025
@@ -102,13 +112,13 @@ IV. SATIRE
 V. SCREENPLAYS & SCRIPTS
 ===============================================================================
 
-9. PINK CRAYONS
-   Filename:    25_09_01_pink_crayons.txt
-   Link:        https://github.com/marblecube/blog/blob/main/25_09_01_pink_crayons.txt
-   Date:        September 1, 2025
-   Type:        Screenplay / Script
-   Tags:        #screenplay #script #satire #humor #cinematic
-   Description: A cinematic short script depicting an absurd crusade inside a 
-                Dollar Tree to destroy pink crayons and resist social constructs.
+10. PINK CRAYONS
+    Filename:    25_09_01_pink_crayons.txt
+    Link:        https://github.com/marblecube/blog/blob/main/25_09_01_pink_crayons.txt
+    Date:        September 1, 2025
+    Type:        Screenplay / Script
+    Tags:        #screenplay #script #satire #humor #cinematic
+    Description: A cinematic short script depicting an absurd crusade inside a 
+                 Dollar Tree to destroy pink crayons and resist social constructs.
 
 -------------------------------------------------------------------------------
